@@ -1,0 +1,1 @@
+export const DOC_UPLOADED = "doc_uploaded";
